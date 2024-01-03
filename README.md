@@ -1,0 +1,2 @@
+- This program acts a order manager that automates the proccess of filling and managing orders.
+- I wrote this application to improve my c++ code and to sharpen my skills especially when it comes to reading and writing files using iostream.
